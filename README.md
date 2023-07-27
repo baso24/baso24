@@ -1,0 +1,2 @@
+- Hi, I am @baso24 and i am currently studying computer and information engineering at the Department of Information Engineering and Mathematical Sciences of the University of Siena (https://www.diism.unisi.it)
+- You can reach me anytime, this is my email: valentinobasili2424@gmail.com
