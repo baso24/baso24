@@ -1,2 +1,2 @@
-- Hi, my name is Valentino and I have a bachelor's degree in Computer and Information Engineering. at the Department of Information Engineering and Mathematical Sciences of the University of Siena (https://www.diism.unisi.it)
-- You can reach me anytime, this is my email: valentinobasili2424@gmail.com
+- Hi, my name is Valentino and I have a bachelor's degree in Computer and Information Engineering at the Department of Information Engineering and Mathematical Sciences of the University of Siena, i'm currently pursuing a Master Degree in Artificial Intelligence and Automation Engineering (https://www.diism.unisi.it).
+- This is my email: valentinobasili2424@gmail.com
